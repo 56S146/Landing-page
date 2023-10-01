@@ -1,2 +1,8 @@
-# Landing-page
-This project requires you to build a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
+# Landing Page Project
+Create Second project using javascript code to Udacity's Front End Nanodegree program
+
+## Instructions
+
+creating dynamic navigation using javascript then add active state navbar when scrolled.
+
+
